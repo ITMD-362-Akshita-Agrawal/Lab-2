@@ -32,7 +32,15 @@
           <label for="birthday">Date of Birth: </label>
           <input type="text" name="birthday" id="birthday" placeholder="MM/DD/YYYY">
         </div>
-
+        
+        <button onclick="clubFunction()">Submit</button>
+        <p id="button"></p>
+        
+        <script>
+          function clubFunction() {
+            document.getElementById("button").innerHTML="Thank you for signing up!";
+          }
+        </script>
       </fieldset>
     </form>
   </main>
