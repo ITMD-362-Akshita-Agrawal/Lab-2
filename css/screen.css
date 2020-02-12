@@ -29,3 +29,12 @@
   }
 }
 
+body {
+  background-color: #08e8de;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  font-family: 'Georgia', serif;
+  font-size: 25px;
+}
+
