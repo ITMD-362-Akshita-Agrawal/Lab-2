@@ -35,7 +35,7 @@ body {
   margin-left: auto;
   -webkit-overflow-scrolling:touch;
   text-align: center;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Georgia', serif;
   font-size: 25px;
 }
 
@@ -44,7 +44,7 @@ label{
 }
 
 h1 {
-  font-family: 'Anton',sans-serif;
+  font-family: 'Georgia',serif;
   text-align: center;
   font-size: 50px;
   color: #536872;
